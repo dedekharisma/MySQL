@@ -1,2 +1,2 @@
 # MySQL
-Collection of MySQL questions.
+Collection of MySQL answer.
